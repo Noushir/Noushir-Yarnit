@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+transformers
+flask
+tensorflow
+torch
+tf-keras
+#for Content Generation model PS2
+fastapi
+openai
+pydantic
+uvicorn
